@@ -1,46 +1,68 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=220&section=header&text=Adarsh%20Mishra&fontSize=62&fontColor=00ff9c&animation=twinkle&fontAlignY=35&desc=%5B%20Full-Stack%20Dev%20%C2%B7%20AI%20Engineer%20%C2%B7%20Cybersecurity%20Enthusiast%20%5D&descSize=16&descAlignY=60" width="100%" alt="Header banner" />
+<img src="assets/hero.svg" width="100%" alt="Adarsh Mishra - AI, web development and cybersecurity"/>
 
 <br/>
 
-<!-- TERMINAL TYPING SVG -->
-<a href="https://github.com/iamwargh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=root%40wargh%3A~%24+whoami;Full-Stack+Architect+%7C+AI+Builder+%7C+Security+Researcher;Building+secure%2C+scalable%2C+and+intelligent+systems;sudo+apt-get+install+awesome-projects" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- BADGES & METRICS -->
-<a href="https://github.com/iamwargh"><img src="https://komarev.com/ghpvc/?username=iamwargh&label=SYSTEM_ACCESS&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/></a>
-<a href="https://github.com/iamwargh?tab=followers"><img src="https://img.shields.io/github/followers/iamwargh?style=for-the-badge&logo=github&logoColor=00ff9c&color=00ff9c&labelColor=0d1117" alt="Followers"/></a>
-<a href="https://github.com/iamwargh?tab=repositories"><img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_9-00ff9c?style=for-the-badge&labelColor=0d1117" alt="Security Level"/></a>
-
-<br/><br/>
-
-<!-- SOCIAL LINKS -->
-<a href="https://twitter.com/warghdev"><img src="https://img.shields.io/badge/X%2FTwitter-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c" /></a>
-<a href="https://linkedin.com/in/yesiamadarsh"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" /></a>
-<a href="https://instagram.com/wargh.in"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff9c" /></a>
-<a href="https://discord.gg/wargh.dev"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff9c" /></a>
-<a href="mailto:hi@adarshmishra.online"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" /></a>
+<a href="https://adarshmishra.online"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c" alt="Portfolio"/></a>
+<a href="https://editbot.xyz"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=hashnode&logoColor=00ff9c" alt="Blog"/></a>
+<a href="https://x.com/warghdev"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c" alt="X"/></a>
+<a href="https://linkedin.com/in/yesiamadarsh"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/></a>
+<a href="mailto:hi@adarshmishra.online"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/></a>
 
 </div>
 
-<br/>
+## Now
 
-```bash
-🖥️ ~/whoami
-┌──(wargh㉿kali-linux)-[~]
-└─$ cat system_info.json
-{
-  "operator": "Adarsh Mishra (iamwargh)",
-  "specialization": ["Cybersecurity", "Full-Stack Development", "AI Systems Architecture"],
-  "active_target": "OffChest (Confession Platform with AI Toxicity Filtering & Encryption)",
-  "learning_vectors": ["Low-Level Exploitation", "LLM Red Teaming", "FastAPI", "Next.js", "Supabase Architecture"],
-  "arsenal": ["Python", "Java", "C", "TypeScript", "React", "Next.js", "PostgreSQL", "Linux/Bash"],
-  "domain": "[https://adarshmishra.online](https://adarshmishra.online)",
-  "dispatch": "hi@adarshmishra.online",
-  "creed": "Code with precision. Secure by design."
-}
+- 🔨 Building **OffChest** — an anonymous confession platform on Next.js + Supabase, next up auth, moderation and an LLM toxicity filter.
+- 🧪 Going deep on **AI/ML and LLM security** — FastAPI in production, prompt-injection and the messy parts nobody writes about.
+- ✍️ Writing what I learn at [editbot.xyz](https://editbot.xyz).
+
+## Selected work
+
+| Project | What it is | Stack |
+| :------ | :--------- | :---- |
+| [**OffChest**](https://github.com/iamwargh/Confession-site) | Anonymous confessions. Live and being rebuilt. | Next.js · Supabase |
+| [**Portfolio**](https://adarshmishra.online) | Projects, writing and experience in one place. | Next.js · Tailwind |
+| [**editbot.xyz**](https://editbot.xyz) | Notes on dev, AI and security. | MDX |
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,java,c,ts,js,html,css&theme=dark" alt="languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind&theme=dark" alt="frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&theme=dark" alt="data"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,discord&theme=dark" alt="tools"/>
+
+</div>
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamwargh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwargh&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=iamwargh&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak"/>
+
+</div>
+
+## Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/iamwargh/iamwargh/output/snake.svg" width="100%" alt="Contribution snake"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamwargh&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%" alt="Activity graph"/>
+
+</div>
+
+## Reach me
+
+Open to collaborations, interesting problems and good ideas.
+
+**hi@adarshmishra.online** · [adarshmishra.online](https://adarshmishra.online) · [editbot.xyz](https://editbot.xyz)
