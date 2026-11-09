@@ -1,41 +1,164 @@
-<h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
-<h3 align="center">A Developer passionate about AI, Web Development & Cybersecurity.</h3>
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamwargh&label=Profile%20views&color=0e75b6&style=flat" alt="iamwargh" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=200&section=header&text=Adarsh%20Mishra&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=%5B%20AI%20%C2%B7%20Web%20Dev%20%C2%B7%20Cybersecurity%20%5D&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamwargh" alt="iamwargh" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40wargh%3A~%24+whoami;Developer+%7C+AI+Builder+%7C+Security+Learner;Turning+random+ideas+into+real+projects;sudo+build+something+awesome..." alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/warghdev" target="blank"><img src="https://img.shields.io/twitter/follow/warghdev?logo=twitter&style=for-the-badge" alt="warghdev" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [OffChest](https://github.com/iamwargh/Confession-site)
+<img src="https://komarev.com/ghpvc/?username=iamwargh&label=Profile%20views&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/iamwargh?style=for-the-badge&logo=github&color=00ff9c&labelColor=0d1117" alt="followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/iamwargh&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00ff9c&labelColor=0d1117" alt="repos"/>
 
-- 🌱 I’m currently learning **Python, FastAPI, Next.js, AI/ML, LLMs, Supabase, PostgreSQL and Cybersecurity.**
+<br/><br/>
 
-- 👨‍💻 All of my projects are available at [adarshmishra.online](adarshmishra.online)
+<a href="https://twitter.com/warghdev"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00ff9c" /></a>
+<a href="https://linkedin.com/in/yesiamadarsh"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" /></a>
+<a href="https://instagram.com/wargh.in"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff9c" /></a>
+<a href="https://discord.gg/wargh.dev"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff9c" /></a>
+<a href="mailto:hi@adarshmishra.online"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" /></a>
 
-- 📝 I regularly write articles on [editbot.xyz](editbot.xyz)
+</div>
 
-- 💬 Ask me about **Python, Java, React, Next.js, FastAPI, Discord Bots, AI Integration and Web Development.**
+---
 
-- 📫 How to reach me **hi@adarshmishra.online**
+## 🖥️ `~/whoami`
 
-- 📄 Know about my experiences [adarshmishra.online](adarshmishra.online)
+```bash
+┌──(wargh㉿kali)-[~]
+└─$ cat profile.json
+```
 
-- ⚡ Fun fact **I turn random ideas into real projects with code.**
+```json
+{
+  "name": "Adarsh Mishra",
+  "alias": "iamwargh",
+  "role": "Developer · AI Builder · Security Enthusiast",
+  "currently_building": "OffChest",
+  "currently_learning": ["Python", "FastAPI", "Next.js", "AI/ML", "LLMs", "Supabase", "PostgreSQL", "Cybersecurity"],
+  "ask_me_about": ["Python", "Java", "React", "Next.js", "FastAPI", "Discord Bots", "AI Integration", "Web Dev"],
+  "portfolio": "https://adarshmishra.online",
+  "blog": "https://editbot.xyz",
+  "contact": "hi@adarshmishra.online",
+  "fun_fact": "I turn random ideas into real projects with code."
+}
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/warghdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warghdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yesiamadarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yesiamadarsh" height="30" width="40" /></a>
-<a href="https://instagram.com/wargh.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wargh.in" height="30" width="40" /></a>
-<a href="https://discord.gg/wargh.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wargh.dev" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛰️ `./active_missions.sh`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamwargh&show_icons=true&locale=en&layout=compact" alt="iamwargh" /></p>
+| Status | Project | Description |
+| :----: | :------ | :---------- |
+| 🟢 **Active** | [**OffChest**](https://github.com/iamwargh/Confession-site) | Anonymous confession platform |
+| 🌐 **Live** | [**Portfolio**](https://adarshmishra.online) | All my projects & experience in one place |
+| ✍️ **Writing** | [**editbot.xyz**](https://editbot.xyz) | Regular articles on dev & tech |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamwargh&show_icons=true&locale=en" alt="iamwargh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamwargh&" alt="iamwargh" /></p>
+## 🧰 `./tech_stack --list`
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,java,c,ts,js,html,css&theme=dark" /><br/>
+
+**Frameworks & Web**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind&theme=dark" /><br/>
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&theme=dark" /><br/>
+
+**Tools & OS**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,photoshop,discord&theme=dark" />
+
+</div>
+
+---
+
+## 📊 `./github_analytics.py`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamwargh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwargh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwargh&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamwargh&theme=github_dark" height="170" alt="profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamwargh&theme=github_dark" height="170" alt="repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamwargh&theme=github_dark" height="170" alt="commit language"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamwargh&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamwargh&theme=matrix&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/></a>
+</div>
+
+> 📦 **Total Repos** and ⭐ **Total Stars Earned** are shown live in the cards above (Profile Details card + the Stats card's "Total Stars Earned").
+
+---
+
+## 🔐 `./cyber_lab --status`
+
+```text
+[✓] Networking fundamentals ................ in progress
+[✓] Linux & command line ................... daily driver
+[~] Web app security (OWASP Top 10) ........ learning
+[~] Secure coding with Python & FastAPI .... learning
+[ ] CTFs (TryHackMe / HackTheBox) .......... planned
+[ ] Bug bounty basics ...................... planned
+[ ] Pentesting tools & scripting ........... planned
+```
+
+---
+
+## 🚀 `./roadmap --future`
+
+> Planned projects. Updating as ideas turn into repos. 🧪
+
+| Priority | Project | Stack | Status |
+| :------: | :------ | :---- | :----: |
+| 🔥 | **OffChest v2** – auth, moderation & AI toxicity filter | Next.js · Supabase · LLM | 🛠️ In progress |
+| 🔥 | **AI Recon Assistant** – LLM that summarizes scan results & suggests next steps | Python · FastAPI · LLM | 💡 Idea |
+| ⚡ | **Web Vuln Scanner (lightweight)** – checks headers, TLS, common misconfigs | Python | 💡 Idea |
+| ⚡ | **Security Discord Bot** – CVE feed, URL scanner, phishing checker | Python · discord.py | 💡 Idea |
+| 🌱 | **Prompt-Injection Playground** – learn LLM security hands-on | Next.js · FastAPI | 💡 Idea |
+| 🌱 | **CTF Writeups Hub** – blog of solved challenges | Next.js · MDX | 💡 Idea |
+| 🌱 | **Password & Breach Checker** – privacy-first, k-anonymity | FastAPI · PostgreSQL | 💡 Idea |
+
+---
+
+## 📡 `./connect --me`
+
+<div align="center">
+
+```bash
+$ echo "Open to collaborations, ideas & cool projects" && sleep 1 && echo "Ping me ->  hi@adarshmishra.online"
+```
+
+<a href="https://adarshmishra.online"><img src="https://img.shields.io/badge/🌐_Portfolio-adarshmishra.online-0d1117?style=for-the-badge&labelColor=00ff9c&color=0d1117" /></a>
+<a href="https://editbot.xyz"><img src="https://img.shields.io/badge/✍️_Blog-editbot.xyz-0d1117?style=for-the-badge&labelColor=00ff9c&color=0d1117" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=120&section=footer&text=%22Stay%20curious.%20Stay%20secure.%22&fontSize=20&fontColor=0d1117&fontAlignY=65" width="100%" alt="footer"/>
+
+</div>
